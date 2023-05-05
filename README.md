@@ -8,6 +8,7 @@ If you have further questions or feedback that you couldn’t address during the
 
 [Blog Post](https://blogs.sap.com/2023/03/29/first-customer-partner-roundtable-for-sap-btp-abap-environment/)<br>
 [SAP Community Event](https://groups.community.sap.com/t5/sap-community/customer-amp-partner-roundtable-for-sap-btp-abap-environment/ec-p/227730#M152)<br>[Slides](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/11371146/2023-04-25_Customer_and_Partner_Roundtable_Steampunk.pdf)<br><br>
+[RAP Side Effects in a Nutshell](https://blogs.sap.com/2023/05/04/rap-side-effects-in-a-nutshell/) - more details about the demo<br><br>
 **Q&A** will be provided soon in a blog post in SAP Community!<br><br>
 Our next roundtable is planned for June. We would be happy to welcome you then as well. Make sure to not miss any upcoming events by following Iwona Hahn in [SAP Community](https://people.sap.com/iwona.hahn) or on [LinkedIn](https://www.linkedin.com/in/iwonahahn/).<br><br>
 We are looking forward to speaking to you again soon!<br><br>
