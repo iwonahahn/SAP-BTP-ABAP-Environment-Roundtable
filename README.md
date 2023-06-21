@@ -9,7 +9,9 @@ If you have further questions or feedback that you couldn’t address during the
 
 [Blog Post](https://blogs.sap.com/2023/05/30/second-customer-partner-roundtable-for-sap-btp-abap-environment/)<br>
 [SAP Community Event June 13th](https://groups.community.sap.com/t5/sap-community/customer-amp-partner-roundtable-for-sap-btp-abap-environment/ec-p/227730#M152](https://groups.community.sap.com/t5/sap-community/second-customer-amp-partner-roundtable-for-sap-btp-abap/ec-p/263380#M211))<br>
-[SAP Community Event June 14th](https://groups.community.sap.com/t5/sap-community/second-customer-amp-partner-roundtable-for-sap-btp-abap/ec-p/263382#M212)<br><br>[Slides] TBD<br><!--<br>[Recordings] TBD--><br>
+[SAP Community Event June 14th](https://groups.community.sap.com/t5/sap-community/second-customer-amp-partner-roundtable-for-sap-btp-abap/ec-p/263382#M212)<br><br>➡️ [Slides presented by Frank Jentsch](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/11818639/2023-06-13_Customer_and_Partner_Roundtable_Steampunk.pdf)<br><br>➡️ [Slides presented by Taxera Technologies](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/11818662/2023-06-13_Taxera_Technologies.pdf)<br><br>🎥 [Recording tbd]<br>
+
+
 
 ### **2023-04-25**<br>
 
