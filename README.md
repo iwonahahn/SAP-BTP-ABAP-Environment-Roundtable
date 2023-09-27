@@ -1,5 +1,6 @@
 ## Material from Customer & Partner Roundtables for SAP BTP ABAP Environment (Steampunk)
-<img width="243" alt="logo" src="https://user-images.githubusercontent.com/22098308/235618176-c3c4780c-5a0c-4499-8ef6-94ba6ab9b448.png">
+![ABAP_Cloud_Logo](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/assets/22098308/ac52709d-bbd8-4684-a67b-8173b736b6d1)
+
 
 Thanks for joining our roundtables. If you weren’t able to join, you can find the slides presented here.<br>We are looking forward to speaking to you again soon!<br><br> 🔥 Make sure to not miss any upcoming events by following Iwona Hahn in [SAP Community](https://people.sap.com/iwona.hahn) or on [LinkedIn](https://www.linkedin.com/in/iwonahahn/).<br><br>
 
