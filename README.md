@@ -10,6 +10,14 @@ If you have further questions or feedback that you couldn’t address during the
 ### 📧 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><br> 
 
+### **2023-12-12**<br>
+
+[Blog Post](https://blogs.sap.com/2023/11/23/customer-partner-roundtable-for-sap-btp-abap-environment-3/)
+<br>
+<br> 📂 [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666153/2023-12-12_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 [Slides presented by Steffen Siegmund (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666155/2023-12-12_Customer_and_Partner_Roundtable_Steampunk_Health_Monitoring.pdf)
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/O0tGR1Rgyp9dEOKmbLlBtgmm4cT8Jjjph_tAoOsOGJteADxAq6sXUvJA8qrQXRRi.cRL4DjF6Zt2mMVKf?startTime=1702373426000)<br>
+
 ### **2023-11-23**<br>
 
 [Blog Post](https://blogs.sap.com/2023/10/24/customer-partner-roundtable-for-sap-btp-abap-environment-2/)
