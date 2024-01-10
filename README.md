@@ -14,8 +14,8 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post](https://blogs.sap.com/2023/11/23/customer-partner-roundtable-for-sap-btp-abap-environment-3/)
 <br>
-<br> 📂 [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666153/2023-12-12_Customer_and_Partner_Roundtable_Steampunk.pdf)
-<br> 📂 [Slides presented by Steffen Siegmund (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666155/2023-12-12_Customer_and_Partner_Roundtable_Steampunk_Health_Monitoring.pdf)
+<br> 📂 System Hibernation - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666153/2023-12-12_Customer_and_Partner_Roundtable_Steampunk.pdf) 
+<br> 📂 Health Monitoring - [Slides presented by Steffen Siegmund (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666155/2023-12-12_Customer_and_Partner_Roundtable_Steampunk_Health_Monitoring.pdf)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/O0tGR1Rgyp9dEOKmbLlBtgmm4cT8Jjjph_tAoOsOGJteADxAq6sXUvJA8qrQXRRi.cRL4DjF6Zt2mMVKf?startTime=1702373426000)<br>
 
 ### **2023-11-23**<br>
@@ -23,7 +23,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post](https://blogs.sap.com/2023/10/24/customer-partner-roundtable-for-sap-btp-abap-environment-2/)
 <br> [SAP Community Event](https://groups.community.sap.com/t5/sap-community/customer-amp-partner-roundtable-for-sap-btp-abap-environment/ec-p/298458#M356)<br>
 <br> 📂 [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13449245/2023-10-24_Customer_and_Partner_.Roundtable_Steampunk.pdf)
-<br> 📂 [Slides presented by Olga Dolinskaja (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13449241/2023-11-23_Customer_and_Partner_.Roundtable_Steampunk_ATC_in_SAP_BTP.pdf)
+<br> 📂 ATC in SAP BTP - [Slides presented by Olga Dolinskaja (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13449241/2023-11-23_Customer_and_Partner_.Roundtable_Steampunk_ATC_in_SAP_BTP.pdf)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/EOOqzqdR9fE4H_iA9pc0hY_VJQRvhiIE9l8FV5hazu_OAJedKEJ2KbB4E9mwlBcu.rhUNhmbQyPDdsQBF?startTime=1700730069000)<br>
 
 ### **2023-10-24**<br>
@@ -31,7 +31,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post](https://blogs.sap.com/2023/09/27/customer-partner-roundtable-for-sap-btp-abap-environment-5/)
 <br> [SAP Community Event](https://groups.community.sap.com/t5/sap-community/customer-amp-partner-roundtable-for-sap-btp-abap-environment/ec-p/293044#M321)<br>
 <br> 📂 [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13116087/2023-10-24_Customer_and_Partner_Roundtable_Steampunk.pdf)
-<br> 📂 [Slides presented by René Zink (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13116185/2023-10-24_Customer_and_Partner_.Roundtable_Steampunk_Data_Archiving.pdf)
+<br> 📂 Data Archiving - [Slides presented by René Zink (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13116185/2023-10-24_Customer_and_Partner_.Roundtable_Steampunk_Data_Archiving.pdf)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/Ox83zva0kS-Ynxu_jpFQRuQcn9gl-QKwLnP9IraWq68TwJ_BAUR6k6_q1bameDrK.Ie70ixqn5AtI0QK2)<br>
 
 ### **2023-09-26**<br>
@@ -40,7 +40,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 <br> [SAP Community Event](https://groups.community.sap.com/t5/sap-community/next-customer-amp-partner-roundtable-for-sap-btp-abap/ev-p/280870)<br>
 <br> 📂 [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/12737300/2023-09-26_Customer_and_Partner_Roundtable_Steampunk.pdf)
 <br>🚨 🎥 [E2E Demo: SAP BTP ABAP Environment – How to Build a Multitenancy SaaS Application](https://www.youtube.com/watch?v=2i0AtjbGTTU)
-<br> 📂 [Slides presented by Tatjana Pfeifer (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/12737439/2023-09-26_Customer_and_Partner_Roundtable_Steampunk_Eventing.pdf) and [Raphael Dibbern (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/12772239/2023-09-26_Scenario_Overview_Event_Enablement.pdf)
+<br> 📂 Eventing - [Slides presented by Tatjana Pfeifer (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/12737439/2023-09-26_Customer_and_Partner_Roundtable_Steampunk_Eventing.pdf) and [Raphael Dibbern (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/12772239/2023-09-26_Scenario_Overview_Event_Enablement.pdf)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/HO0DVdziOsGjhGlFlLcOLpC5WXldD6NZ56ilVTmz71ZyrH2rwfEIh-xHKscnHQij.9HCsWf5bq-KfCOyn?startTime=1695715255000)<br>
 
 
