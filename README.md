@@ -15,7 +15,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post](https://blogs.sap.com/2023/11/23/customer-partner-roundtable-for-sap-btp-abap-environment-3/)
 <br>
 <br> 📂 System Hibernation - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666153/2023-12-12_Customer_and_Partner_Roundtable_Steampunk.pdf) 
-<br> 📂 Health Monitoring - [Slides presented by Steffen Siegmund (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666155/2023-12-12_Customer_and_Partner_Roundtable_Steampunk_Health_Monitoring.pdf)
+<br> 📂 Health Monitoring - [Slides presented by Steffen Siegmund (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13666155/2023-12-12_Customer_and_Partner_Roundtable_Steampunk_Health_Monitoring.pdf) and [Blog Post - Monitoring the Health of the ABAP System in the Cloud](https://blogs.sap.com/2023/05/09/monitoring-the-health-of-the-abap-system-in-the-cloud/)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/O0tGR1Rgyp9dEOKmbLlBtgmm4cT8Jjjph_tAoOsOGJteADxAq6sXUvJA8qrQXRRi.cRL4DjF6Zt2mMVKf?startTime=1702373426000)<br>
 
 ### **2023-11-23**<br>
