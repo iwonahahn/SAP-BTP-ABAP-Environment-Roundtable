@@ -10,6 +10,15 @@ If you have further questions or feedback that you couldn’t address during the
 ### 📧 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><br> 
 
+
+### **2024-01-23**<br>
+
+[Blog Post](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-8/ba-p/13579215)
+<br>
+<br> 📂 Product Updates - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14083770/2024-01-23_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Embedded Analytics - [Slides presented by Andreas Riehl (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14083780/2024-01-23_Embedded_Analytics_SAP_BTP_ABAP_Environment.pdf)
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/UXFWu8OrRgXhoiORFGrV1YGSlP4LnWhFSvRuaLmBsIn5LxXxCu1HW19rweV8JF7l.YaiV-iHeYi4cGGCH?startTime=1706000442000)<br>
+
 ### **2023-12-12**<br>
 
 [Blog Post](https://blogs.sap.com/2023/11/23/customer-partner-roundtable-for-sap-btp-abap-environment-3/)
