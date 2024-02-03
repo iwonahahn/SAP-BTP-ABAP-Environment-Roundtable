@@ -31,7 +31,8 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post](https://blogs.sap.com/2023/10/24/customer-partner-roundtable-for-sap-btp-abap-environment-2/)
 <br> [SAP Community Event](https://groups.community.sap.com/t5/sap-community/customer-amp-partner-roundtable-for-sap-btp-abap-environment/ec-p/298458#M356)<br>
-<br> 📂 [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13449245/2023-10-24_Customer_and_Partner_.Roundtable_Steampunk.pdf)
+<br> 📂 [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14150454/2023-11-23_Customer_and_Partner_Roundtable_Steampunk.pdf)
+()
 <br> 📂 ATC in SAP BTP - [Slides presented by Olga Dolinskaja (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/13449241/2023-11-23_Customer_and_Partner_.Roundtable_Steampunk_ATC_in_SAP_BTP.pdf)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/EOOqzqdR9fE4H_iA9pc0hY_VJQRvhiIE9l8FV5hazu_OAJedKEJ2KbB4E9mwlBcu.rhUNhmbQyPDdsQBF?startTime=1700730069000)<br>
 
