@@ -10,6 +10,13 @@ If you have further questions or feedback that you couldn’t address during the
 ### 👉 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><br> 
 
+### **Roundtable #9 - 2024-02-27**<br>
+
+[Blog Post](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-9/ba-p/13584963)
+<br>
+<br> 📂 Product Updates - coming soon
+<br> 📂 Bring Your Own Git - coming soon
+<br> 🎥 Zoom Recording - coming soon <br>
 
 ### **Roundtable #8 - 2024-01-23**<br>
 
