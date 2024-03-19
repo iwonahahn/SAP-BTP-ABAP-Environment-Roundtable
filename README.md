@@ -10,12 +10,21 @@ If you have further questions or feedback that you couldn’t address during the
 ### 👉 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><br> 
 
+### **Roundtable #10 - 2024-03-19**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-10/ba-p/13621247)
+<br>
+<br> 📂 Product Updates - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14654258/2024-03-19_Customer_and_Partner_Roundtable_Steampunk.pdf) and blog post [Important Update: Changes to the Free Tier Option for SAP BTP ABAP Environment](https://community.sap.com/t5/technology-blogs-by-sap/important-update-changes-to-the-free-tier-option-for-sap-btp-abap/ba-p/13592731)
+<br> 📂 Update on Supported Hyperscalers & Elastic Scaling of Application Servers - [Slides presented by Guido Derwand & Arne Harren (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14654281/2024-03-19_Customer_and_Partner_Roundtable_Steampunk_Infrastrucutre_News.pdf)
+ and blog posts [SAP BTP ABAP Environment on Google Cloud](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-on-google-cloud/ba-p/13631489) and [SAP BTP ABAP Environment – Elastic Scaling of Application Servers](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-on-google-cloud/ba-p/13631489)
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/THdtThh91f0-LJFRLCTi75N3g70NNq9YJH0fKk39_BKER-BXCuW0Q3bb6LW6O9pW.XpiSzKett-_pw3fW?startTime=1710860428000) <br>
+
 ### **Roundtable #9 - 2024-02-27**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-9/ba-p/13584963)
 <br>
 <br> 📂 Product Updates - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14423178/2024-02-27_Customer_and_Partner_Roundtable_Steampunk.pdf) and blog post [SAP BTP ABAP Environment – Elastic Scaling of Application Servers](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-elastic-scaling-of-application-servers/ba-p/13614903)
-<br> 📂 Bring Your Own Git [Slides presented by Christoph Pohl & Antonina Prendi (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14423187/2024-02-27_SAP_BTP_ABAP_Environement_Bring_your_own_Git.pdf) and blog post [Bring your own Git for SAP BTP ABAP Environment](https://community.sap.com/t5/technology-blogs-by-sap/bring-your-own-git-for-sap-btp-abap-environment/ba-p/13585439)
+<br> 📂 Bring Your Own Git - [Slides presented by Christoph Pohl & Antonina Prendi (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14423187/2024-02-27_SAP_BTP_ABAP_Environement_Bring_your_own_Git.pdf) and blog post [Bring your own Git for SAP BTP ABAP Environment](https://community.sap.com/t5/technology-blogs-by-sap/bring-your-own-git-for-sap-btp-abap-environment/ba-p/13585439)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/dnzWORP1AZsf6muttI8dgvKLokbuG8EzpmIFnoHXvxEw4hf7wetegONrUe542nJJ.P7yuZRHoxLkpL4um?startTime=1709046113000) <br>
 
 ### **Roundtable #8 - 2024-01-23**<br>
