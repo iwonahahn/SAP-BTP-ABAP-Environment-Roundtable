@@ -16,7 +16,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 <br>
 <br> 📂 Product Updates - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14654258/2024-03-19_Customer_and_Partner_Roundtable_Steampunk.pdf) and blog post [Important Update: Changes to the Free Tier Option for SAP BTP ABAP Environment](https://community.sap.com/t5/technology-blogs-by-sap/important-update-changes-to-the-free-tier-option-for-sap-btp-abap/ba-p/13592731)
 <br> 📂 Update on Supported Hyperscalers & Elastic Scaling of Application Servers - [Slides presented by Guido Derwand & Arne Harren (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14654281/2024-03-19_Customer_and_Partner_Roundtable_Steampunk_Infrastrucutre_News.pdf)
- and blog posts [SAP BTP ABAP Environment on Google Cloud](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-on-google-cloud/ba-p/13631489) and [SAP BTP ABAP Environment – Elastic Scaling of Application Servers](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-on-google-cloud/ba-p/13631489)
+ and blog posts [SAP BTP ABAP Environment on Google Cloud](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-on-google-cloud/ba-p/13631489) and [SAP BTP ABAP Environment – Elastic Scaling of Application Servers](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-elastic-scaling-of-application-servers/ba-p/13614903)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/THdtThh91f0-LJFRLCTi75N3g70NNq9YJH0fKk39_BKER-BXCuW0Q3bb6LW6O9pW.XpiSzKett-_pw3fW?startTime=1710860428000) <br>
 
 ### **Roundtable #9 - 2024-02-27**<br>
