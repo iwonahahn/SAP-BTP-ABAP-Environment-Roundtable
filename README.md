@@ -8,14 +8,23 @@ Thanks for joining our roundtables. If you weren’t able to join, you can find 
 If you have further questions or feedback that you couldn’t address during the session, we’d be very glad to receive them via [email](mailto:sap_btp_abap_environment@sap.com).
 
 ### 👉 Call for contributions for one of the upcoming roundtables is open!
-If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><br> 
+If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
+
+### **Roundtable #11 - 2024-04-24**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-11/ba-p/13648510)
+<br>
+<br> 📂 Product Updates - [Slides presented by Iwona Hahn and Burcu Karlidag (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/15098455/2024-04-23_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 SAP Fiori elements for ABAP developers - [Slides and demo presented by Sebastian Werner and Stefan Engelhardt (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/15098503/2024-04-24_SAP_Fiori_elements_ABAP_development.pdf)
+<br> 🎥 [Zoom Recording for the SAP Fiori elements part](https://sap-se.zoom.us/rec/share/eDDaLij1EZixXWipam9eoHqp7zRdkGWuZUaoaahmsmktV-YEcR_-Eb-5BM6BUswO.m2BwGjULjVcLKsRr?startTime=1713860105000) <br>
+
 
 ### **Roundtable #10 - 2024-03-19**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-10/ba-p/13621247)
 <br>
 <br> 📂 Product Updates - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14654258/2024-03-19_Customer_and_Partner_Roundtable_Steampunk.pdf) and blog post [Important Update: Changes to the Free Tier Option for SAP BTP ABAP Environment](https://community.sap.com/t5/technology-blogs-by-sap/important-update-changes-to-the-free-tier-option-for-sap-btp-abap/ba-p/13592731)
-<br> 📂 Update on Supported Hyperscalers & Elastic Scaling of Application Servers - [Slides presented by Guido Derwand & Arne Harren (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/14654281/2024-03-19_Customer_and_Partner_Roundtable_Steampunk_Infrastrucutre_News.pdf)
+<br> 📂 Update on Supported Hyperscalers & Elastic Scaling of Application Servers - [Slides presented by Guido Derwand & Arne Harren (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/15098512/2024-03-19_Customer_and_Partner_Roundtable_Steampunk_Infrastructure_News.pdf)
  and blog posts [SAP BTP ABAP Environment on Google Cloud](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-on-google-cloud/ba-p/13631489) and [SAP BTP ABAP Environment – Elastic Scaling of Application Servers](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-elastic-scaling-of-application-servers/ba-p/13614903)
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/THdtThh91f0-LJFRLCTi75N3g70NNq9YJH0fKk39_BKER-BXCuW0Q3bb6LW6O9pW.XpiSzKett-_pw3fW?startTime=1710860428000) <br>
 
