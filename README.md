@@ -10,6 +10,14 @@ If you have further questions or feedback that you couldn’t address during the
 ### 👉 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 
+### **Roundtable #12 - 2024-05-23**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-12/ba-p/136813420)
+<br>
+<br> 📂 Product Updates - [Slides presented by Frank Jentsch (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/15458621/2024-05-23_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 End-to-End Development Experience for ABAP Cloud - [Slides and demo presented by Thomas Alexander Ritter and Anne Keller (SAP)](https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/files/15458626/2024-05-23_Customer_and_Partner_Roundtable_Steampunk_E2E_Dev_Exp.pdf)
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/8Xkv3u8ujunCPqivsx-BpbPAQyY931Z7LogDs4Mpjr24JBTNHOe8eifvcKuowj0m.91Ww2kyyUhEUlr6n?startTime=1716451272000) <br>
+
 ### **Roundtable #11 - 2024-04-24**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-11/ba-p/13648510)
