@@ -10,6 +10,15 @@ If you have further questions or feedback that you couldn’t address during the
 ### 👉 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 
+### **Roundtable #13 - 2024-06-25**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-13/ba-p/13713690)
+<br>
+<br> 📂 Product Updates: pre-upgrade option for 2408 and & call for action - [Slides presented by Frank Jentsch & Burcu Karlidag (SAP)](https://github.com/user-attachments/files/15969137/2024-06-25_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Baseline Support for ABAP Test Cockpit in SAP BTP incl. demo - [Slides presented by Thomas Fiedler and demo by Katharina Wurz (SAP)](https://github.com/user-attachments/files/15969153/2024-06-25_Customer_and_Partner_Roundtable_Steampunk_ATC_Baseline.pdf)
+<br> 📂 Capabilities and roadmap for AI in ABAP Cloud incl. demos - [Slides and demos presented by Florian Wahl (SAP)](https://github.com/user-attachments/files/15969171/2024_06_25_GenAI_ABAP_Overview.pdf)
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/1sf01XwyhIrACpWwS73Iz4D8R3Kr83sGp5WqClXMktj_kRp1N8cC9PRT6kI3nr4k.3SHFDg-vWk9dhsgu?startTime=1719302409000) <br>
+
 ### **Roundtable #12 - 2024-05-23**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-12/ba-p/136813420)
