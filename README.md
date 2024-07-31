@@ -10,6 +10,14 @@ If you have further questions or feedback that you couldn’t address during the
 ### 👉 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 
+### **Roundtable #14 - 2024-07-30**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-14/ba-p/13741880)
+<br>
+<br> 📂 Product Updates & upcoming events - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/16437573/2024-07-30_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 ABAP Cloud Landing Page in ABAP Development Tools (ADT) incl. demo - [Slides & demo presented by Chris Swanepoel and Daniela Fenderl (SAP)](https://github.com/user-attachments/files/16437588/2024-07-30_ABAP_Cloud_Landing_Page.pdf)
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/csdutka8_-QYGcLxQWa-0awCj4N-bldzXV8RY9yF-eltBr_hei2BK51jPyEm2tSZ._czzz5yyiJFW0axt?startTime=1722326423000) <br>
+
 ### **Roundtable #13 - 2024-06-25**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-13/ba-p/13713690)
