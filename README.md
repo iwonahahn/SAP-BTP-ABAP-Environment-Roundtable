@@ -10,6 +10,14 @@ If you have further questions or feedback that you couldn’t address during the
 ### 👉 Call for contributions for one of the upcoming roundtables is open!
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 
+### **Roundtable #16 - 2024-09-19**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-16/ba-p/13803825)
+<br>
+<br> 📂 Product Updates (new boosters for SAP BTP ABAP Environment & upcoming events - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/17058680/2024-09-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 SQL-based Data Integration with SQL Services and CDS External Entities incl. demo - [Slides & demo presented by Arne Harren (SAP) & Timm Falter (SAP)](https://github.com/user-attachments/files/17058688/2024-09-19_Customer_and_Partner_Roundtable_Data_Integration.pdf) <be>
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/YVuZe9W13NiAKCQj8ppT1TnJVh5ohlY76otXVUHklNjVyNSbU56zamuD_d519EI-.Zk9lCLt_6v7TRk5V) <br>
+
 
 ### **Roundtable #15 - 2024-08-22**<br>
 
