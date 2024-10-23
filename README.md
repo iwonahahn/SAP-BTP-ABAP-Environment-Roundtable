@@ -3,7 +3,8 @@
 <img width="200" alt="image" src="https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/assets/22098308/ca7818d2-ee25-4187-a207-1b35379055b0">
 <br><br>
 
-Thanks for joining our roundtables. If you weren’t able to join, you can find the slides presented and all recordings here.<br>We are looking forward to speaking to you again soon!<br><br> 🔥 Make sure to not miss any upcoming events by following Iwona Hahn on [LinkedIn](https://www.linkedin.com/in/iwonahahn/) or subscribe for SAP BTP ABAP Environment topics in [SAP Community](https://community.sap.com/t5/c-khhcw49343/SAP+BTP%25252C+ABAP+environment/pd-p/73555000100800001164).<br><br>
+Thanks for joining our monthly roundtable. If you weren’t able to join, you can find the slides presented and all recordings here.<br>We are looking forward to speaking to you again soon!<br><br> 🔥 Make sure to not miss any upcoming events by following Iwona Hahn on [LinkedIn](https://www.linkedin.com/in/iwonahahn/) or subscribe for SAP BTP ABAP Environment topics in [SAP Community](https://community.sap.com/t5/c-khhcw49343/SAP+BTP%25252C+ABAP+environment/pd-p/73555000100800001164). We also recommend to subscribe to Cloud System Notification Subscriptions (CSNS) as described in this [blog post](https://community.sap.com/t5/technology-blogs-by-sap/sap-btp-abap-environment-maintenance-windows-and-major-upgrade-windows-in/ba-p/13579180) to get important information about planned and unplanned downtimes.
+<br><br>
  
 If you have further questions or feedback that you couldn’t address during the session, we’d be very glad to receive them via [email](mailto:sap_btp_abap_environment@sap.com).
 
