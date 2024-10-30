@@ -15,7 +15,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-17/ba-p/13880936)
 <br>
-<br> 📂 Product Updates (Pre-Upgrade and Upgrade to 2411, ABAP Cloud in SAP Build, planned Landscape Portal featuresn  planned data centers) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/17489452/2024-10-22_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Product Updates (Pre-Upgrade and Upgrade to 2411, ABAP Cloud in SAP Build, planned Landscape Portal features, and planned data centers) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/17489452/2024-10-22_Customer_and_Partner_Roundtable_Steampunk.pdf)
 )<br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/VXzFYBK9Mx3MhrrUno-3j0z9YH0S4LAYU2JEU-E_T_fBAuEsVYP8VduIa16ZNBDd._zpj9RDoPr7I1vgb) <br>
 
