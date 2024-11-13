@@ -15,6 +15,8 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-18/ba-p/13926101)
 
+Planned: Live demos of selected features for the upcoming 2411 release
+
 <br>
 
 ### **Roundtable #17 - 2024-10-22**<br>
