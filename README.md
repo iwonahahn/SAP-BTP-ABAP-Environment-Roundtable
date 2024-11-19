@@ -14,17 +14,17 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 ### **Roundtable #18 - 2024-11-19**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-18/ba-p/13926101)
-
-Planned: Live demos of selected features for the upcoming 2411 release
-
 <br>
+<br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, Release Notes for 2411) - [Slides presented by Iwona Hahn (SAP)](https://github.com/user-attachments/files/17816468/2024-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/qZ45MTsORdurFlwtN-Tz1uLJ4cxCPr9hoCHfVOdvx9yGFmyA-ts1_0mIuiPAAoQi.OOdfw0KMji5fg-Qd?startTime=1732006893000) <br>
 
 ### **Roundtable #17 - 2024-10-22**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-17/ba-p/13880936)
 <br>
 <br> 📂 Product Updates (pre-upgrade and upgrade to 2411, ABAP Cloud in SAP Build, planned Landscape Portal features, planned data centers, and options for the system landscape setup and how to save costs using system hibernation) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/17489452/2024-10-22_Customer_and_Partner_Roundtable_Steampunk.pdf)
-)<br> 
+<br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/VXzFYBK9Mx3MhrrUno-3j0z9YH0S4LAYU2JEU-E_T_fBAuEsVYP8VduIa16ZNBDd._zpj9RDoPr7I1vgb) <br>
 
 ### **Roundtable #16 - 2024-09-19**<br>
