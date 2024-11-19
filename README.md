@@ -15,7 +15,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-18/ba-p/13926101)
 <br>
-<br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, Release Notes for 2411) - [Slides presented by Iwona Hahn (SAP)](https://github.com/user-attachments/files/17816468/2024-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, Release Notes for 2411) - [Slides presented by Iwona Hahn (SAP)](https://github.com/user-attachments/files/17818081/2024-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
 <br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/qZ45MTsORdurFlwtN-Tz1uLJ4cxCPr9hoCHfVOdvx9yGFmyA-ts1_0mIuiPAAoQi.OOdfw0KMji5fg-Qd?startTime=1732006893000) <br>
 
