@@ -1,4 +1,4 @@
-## Material from Customer & Partner Roundtables for SAP BTP ABAP Environment (Steampunk)
+## Material from Monthly Customer & Partner Roundtables for SAP BTP ABAP Environment (Steampunk)
 
 <img width="200" alt="image" src="https://github.com/iwonahahn/SAP-BTP-ABAP-Environment-Roundtable/assets/22098308/ca7818d2-ee25-4187-a207-1b35379055b0">
 <br><br>
