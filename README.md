@@ -25,6 +25,15 @@ coming soon 🕐
 <br>
 <br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, Release Notes for 2411) - [Slides presented by Iwona Hahn (SAP)](https://github.com/user-attachments/files/17818081/2024-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
 <br> 
+<br>**Demos presented:**
+1. News for ABAP Development Tools (ADT) incl. new logon wizard, faster project creation, improved error
+handling – Sebastian Ratz
+2. New approach to build Application Jobs in ABAP Cloud – Hans-Georg Klotzek<br>
+   --› [Creating a Job Catalog Entry and a Job Template - SAP Help Portal](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/creating-job-catalog-entry-and-job-template-in-adt?locale=en-US)<br>
+   --› [Creating a CDS Value Help - SAP Help Portal](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/creating-cds-value-help?locale=en-US&version=sap_btp)
+4. Client Default Certificates – Peter Persiel<br>
+   --› [How to Handle Default Client Certificate Renewal - SAP Help Portal](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/how-to-handle-default-client-certificate-renewal)<br>
+   --› [Setting up the Authorizations - SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/setting-up-authorizations)<br>
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/qZ45MTsORdurFlwtN-Tz1uLJ4cxCPr9hoCHfVOdvx9yGFmyA-ts1_0mIuiPAAoQi.OOdfw0KMji5fg-Qd?startTime=1732006893000) <br>
 
 ### **Roundtable #17 - 2024-10-22**<br>
