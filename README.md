@@ -12,11 +12,14 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+
 ### **Roundtable #19 - 2025-01-21**<br>
 
-coming soon 🕐
-
-[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-19/ba-p/13950522) with agenda preview and link to register for the upcoming session
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-19/ba-p/13950522) 
+<br>
+<br> 📂 Product Updates (Pre-Upgrade and Upgrade to 2502, downtime-optimized Upgrades and Hotfix Collection Imports for Production, planned new features of release 2502 and new data centers in Q1/2025, new blog post “Best Practices: SAP BTP ABAP Environment”) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/18490150/2025-01-21_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Generative AI for ABAP - use cases, the generative AI road map, and insights incl. demo - [Slides & demo presented by Alexander Rother (SAP) & Jens Weiler (SAP)](https://github.com/user-attachments/files/18490181/2025-01-21_Generative_AI_for_ABAP.pdf) <br>
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/cnqkr8UHPAhkkXGkB--ESN0zPX4HnzPCm050ZnNXDdRQXc5mlHIIikgYnqEHv1Ir.cWPw6lpX5eOBB6QC?startTime=1737450056000) <br>
 <br>
 
 ### **Roundtable #18 - 2024-11-19**<br>
