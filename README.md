@@ -17,7 +17,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-20/ba-p/13995613) 
 <br>
 <br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, Downtime-optimized Upgrades and Hotfix Collection Imports for Production, new features of release 2502 incl. AI, upcoming events) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/18781939/2025-02-13_Customer_and_Partner_Roundtable_Steampunk.pdf)
-<br> 📂 ABAP IDE Actions incl. live demo presented by Uenal Akkaya (SAP), [documentation](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/working-with-ide-actions) on SAP Help Portal <br>
+<br> 📂 ABAP IDE Actions incl. live demo (see recording) presented by Uenal Akkaya (SAP), [documentation](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/working-with-ide-actions) on SAP Help Portal <br>
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/GHGxZ0UCOOyVntD4dPMWEIBMeh6LSQ2m6WOYEul70BfzzsgKYkNaQycy8Vu7kyz0.0ytbAxD8RXJJM04i?startTime=1739437271000) <br>
 <br>
 
