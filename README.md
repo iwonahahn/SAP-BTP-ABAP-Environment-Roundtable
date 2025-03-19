@@ -16,7 +16,8 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-21/ba-p/14021896) 
 <br>
-<br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, new features of release 2502 incl. AI, upcoming events) - [Slides presented by Frank Jentsch (SAP)]()
+<br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, new features of release 2502 incl. AI, upcoming events) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/19335713/2025-03-18_Customer_and_Partner_Roundtable_Steampunk.pdf)
+
 <br> 📂 [rps Agreement Management](https://rps.de/loesungen/agreements/) Partner Solution on SAP BTP incl. live demo presented by Hans-Georg Lill & Jeronimo Fernandez-Gersol (rps GmbH), [Slides from rps GmbH](https://github.com/user-attachments/files/19335560/realcore.group.-.rps.GmbH.-.Agreement.Management.-.ABAP.Roundtable.21.pdf) <br>
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/PYa7olf43ACpJs13nFMs7YmTdGgQWO6uhD8scHXCthfhoW0N4es5xESmpUkpPv4j.57FYi8uQiEuPSy_q?startTime=1742288468000) <br>
 <br>
@@ -47,11 +48,11 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 <br> 
 <br>**Demos presented:**
 1. News for ABAP Development Tools (ADT) incl. new logon wizard, faster project creation, improved error
-handling – Sebastian Ratz
-2. New approach to build Application Jobs in ABAP Cloud – Hans-Georg Klotzek<br>
+handling – Sebastian Ratz (SAP)
+2. New approach to build Application Jobs in ABAP Cloud – Hans-Georg Klotzek (SAP)<br>
    --› [Creating a Job Catalog Entry and a Job Template - SAP Help Portal](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/creating-job-catalog-entry-and-job-template-in-adt?locale=en-US)<br>
    --› [Creating a CDS Value Help - SAP Help Portal](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/creating-cds-value-help?locale=en-US&version=sap_btp)
-4. Client Default Certificates – Peter Persiel<br>
+4. Client Default Certificates – Peter Persiel (SAP)<br>
    --› [How to Handle Default Client Certificate Renewal - SAP Help Portal](https://help.sap.com/docs/sap-btp-abap-environment/abap-environment/how-to-handle-default-client-certificate-renewal)<br>
    --› [Setting up the Authorizations - SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/setting-up-authorizations)<br>
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/qZ45MTsORdurFlwtN-Tz1uLJ4cxCPr9hoCHfVOdvx9yGFmyA-ts1_0mIuiPAAoQi.OOdfw0KMji5fg-Qd?startTime=1732006893000) <br>
