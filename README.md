@@ -17,7 +17,6 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-21/ba-p/14021896) 
 <br>
 <br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, new features of release 2502 incl. AI, upcoming events) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/19335713/2025-03-18_Customer_and_Partner_Roundtable_Steampunk.pdf)
-
 <br> 📂 [rps Agreement Management](https://rps.de/loesungen/agreements/) Partner Solution on SAP BTP incl. live demo presented by Hans-Georg Lill & Jeronimo Fernandez-Gersol (rps GmbH), [Slides from rps GmbH](https://github.com/user-attachments/files/19335560/realcore.group.-.rps.GmbH.-.Agreement.Management.-.ABAP.Roundtable.21.pdf) <br>
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/PYa7olf43ACpJs13nFMs7YmTdGgQWO6uhD8scHXCthfhoW0N4es5xESmpUkpPv4j.57FYi8uQiEuPSy_q?startTime=1742288468000) <br>
 <br>
