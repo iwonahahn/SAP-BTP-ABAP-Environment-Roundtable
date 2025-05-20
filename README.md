@@ -12,11 +12,26 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+
+### **Roundtable #23 - 2025-05-20**<br>
+
+[Blog Post](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-22/ba-p/14056427)
+<br>
+<br> 📂 Product Updates (Product news for Release 2505) - [Slides](https://github.com/user-attachments/files/20349838/2025-05-20_Customer_and_Partner_Roundtable_Steampunk.pdf) presented by Nora Klemp (SAP)<br> 
+<br> 📂 Demos im ABAP Development Tools (ADT): <br>
+  <br> --› Quick Fiori app generation, Swagger support for OData services & UX improvements of generator framework presented by Shyam Balachandran (SAP)<br> 
+  <br> --› Getting SQL Insights with HANA Plan Trace integrated in ADT Cross Trace - [slides](https://github.com/user-attachments/files/20349911/2025-05-20_HPT_ADT_CrossTrace_Integration.pdf) presented by Dr. Christian Cop (SAP) and demo by Dr. Oliver Brein (SAP)
+  <br> 
+  <br> --› Enhancements of Manage Software Components app presented by Simon Dold (SAP)
+<br> 
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/_c1ijbJhispg_OMpYrKpihuYWPq-LHGLiwXqpLVn7EUqRbfE9ZBrKAdRss7F4anS.Sla2myZRCLWhlDwa?startTime=1747728014000) <br>
+<br>
+
 ### **Roundtable #22 - 2025-04-29**<br>
 
 [Blog Post](https://community.sap.com/t5/technology-blogs-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-22/ba-p/14056427)
 <br>
-<br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, planned new features of release 2505, upcoming events) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/19974526/2025-04-29_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Product Updates (Maintenance Windows and Release Upgrades 2025, Call to Action: Please Subscribe to System Notifications, planned new features of release 2505, upcoming events) - [Slides](https://github.com/user-attachments/files/19974526/2025-04-29_Customer_and_Partner_Roundtable_Steampunk.pdf) presented by Frank Jentsch (SAP)
 <br> 📂 CDS Table Entities: the new way to model database tables in ABAP incl. demo (see recording) presented by Johannes Heinrich (SAP) and Matthias Herchenroether (SAP), [Slides](https://github.com/user-attachments/files/19974533/2025-04-29_CDS_Table_Entities.pdf)
 <br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/h4QeHtgmq2tAG_UyrXLYF-v5ae_wFsk3MQOxznD6yA4OHYmzZ1Z23FsPHyFGofNT.aPWlpUqT-ogogC_X?startTime=1745913675000) <br>
