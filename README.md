@@ -17,7 +17,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-24/ba-p/14111354) 
 <br>
 <br> 📂 Product Updates (pre-upgrade option, referenced SAPUI5 version schedule, new features of upcoming release 2508, new data centers) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/20903606/2025-06-25_Customer_and_Partner_Roundtable_Steampunk.pdf)
-<br> 📂 Global E-Invoice Cloud” partner solution on SAP BTP ABAP Environment incl. live demos (see recording) presented by Frank Engert (CEO, Softway AG), [Slides](https://github.com/user-attachments/files/20903739/BTP.ABAP.Roundtable.-.Global.E-Invoice.Cloud.pdf) <br>
+<br> 📂 [Global E-Invoice Cloud](https://www.softway.de/global-e-invoice-cloud) partner solution on SAP BTP ABAP Environment incl. live demos (see recording) presented by Frank Engert (CEO, Softway AG), [Slides](https://github.com/user-attachments/files/20903739/BTP.ABAP.Roundtable.-.Global.E-Invoice.Cloud.pdf) <br>
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/rUXi45awFv1Y9pMHf1U5vTqXdpSzwBx9TasVNgIkyXMxzQj_YvacBhw3_WyJ4EFq.tqaOVKk17F0U20It?startTime=1750838436000) <br>
 <br>
  
