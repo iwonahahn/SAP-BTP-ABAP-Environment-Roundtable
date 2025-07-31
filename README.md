@@ -12,6 +12,15 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+### **Roundtable #25 - 2025-07-31**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-25/ba-p/14141705) 
+<br>
+<br> 📂 Product Updates (pre-upgrade option, referenced SAPUI5 version schedule, new features of upcoming release 2508, new data centers, upcoming events) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/21529252/2025-07-31_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 [EDI-ZONE” - (EDI & eInvoicing)](https://www.blue-zone.io/en/products/edi-zone/) partner solution on SAP BTP ABAP Environment incl. live demo (see recording) presented by Andreas Klose (Director Software Development, blue-zone GmbH), Christof Unterste (Solution Architect, blue-zone GmbH) [Slides](https://github.com/user-attachments/files/21529311/Steampunk.Roundtable.blue.zone.GmbH.pdf) <br>
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/xnKhLRztzMLXLwTmEKhQffpzJ9QCoWCsmqI5xElx_pUOcWpmPc2T_x9yZwsN8GU.m40SfYlsxeO62M5F?startTime=1753948894000) <br>
+<br>
+
 ### **Roundtable #24 - 2025-06-25**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-24/ba-p/14111354) 
