@@ -18,8 +18,8 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 <br>
 <br> 📂 Product Updates (new features of release 2508, new data centers, planned partner enablement) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/21856578/2025-08-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
 <br> 📂 Demos im ABAP Development Tools (ADT): <br>
-  <br> --› ABAP Developer Tools / Debugger - New comparison tool for internal tables presented by Jörg-Michael Grassau (SAP)<br> 
-  <br> --› XCO Library - Excel API: Text alignment, cell merging, tab color presented by Shuang Li (SAP)
+  <br> --› ABAP Developer Tools / Debugger - New comparison tool for internal tables presented by Jörg-Michael Grassau (SAP) - documentation on [SAP Help Portal](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/comparing-internal-tables?locale=en-US)<br> 
+  <br> --› XCO Library - Excel API: Text alignment, cell merging, tab color presented by Shuang Li (SAP) - documentation on [SAP Help Portal](https://help.sap.com/docs/btp/sap-business-technology-platform/xlsx?locale=en-US&q=XCO+)
 <br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/cWKy9__hj3oJzbQvcr45_UuAXfLJwxc_Wc4-fFszqB61ohd9bLU3uJzZSdTA-3vp.4DdfLxkvm9Hts73o?startTime=1755590517000) <br>
 <br>
