@@ -12,6 +12,19 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+### **Roundtable #26 - 2025-08-19**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-26/ba-p/14171256) 
+<br>
+<br> 📂 Product Updates (new features of release 2508, new data centers, planned partner enablement) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/21856578/2025-08-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Demos im ABAP Development Tools (ADT): <br>
+  <br> --› ABAP Developer Tools / Debugger - New comparison tool for internal tables presented by Jörg-Michael Grassau (SAP)<br> 
+  <br> --› XCO Library - Excel API: Text alignment, cell merging, tab color presented by Shuang Li (SAP)
+<br> 
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/cWKy9__hj3oJzbQvcr45_UuAXfLJwxc_Wc4-fFszqB61ohd9bLU3uJzZSdTA-3vp.4DdfLxkvm9Hts73o?startTime=1755590517000) <br>
+<br>
+
+
 ### **Roundtable #25 - 2025-07-31**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-25/ba-p/14141705) 
