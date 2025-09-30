@@ -12,6 +12,19 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+### **Roundtable #27 - 2025-09-30**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-27/ba-p/14187111) 
+<br>
+<br> 📂 Product Updates (add-on product, new FAQ for general and partner specific questions, new SAP data center) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/22624780/2025-09-30_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Demos im ABAP Development Tools (ADT): <br>
+  <br> --› AI-assisted Service Consumption Model presented by Bernhard Grusie (SAP) - [slides presented](https://github.com/user-attachments/files/22624792/SAP.Joule_for.Developers.ABAP.AI.capabilities.OData.Service.Consumption.Model.pdf)
+<br> 
+  <br> --› Forms Templates presented by Pascal Bremer (SAP) 
+<br> 
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/acc2W83Ipg38KAdN143t38stBLsdV4YpBw_pFnE-itwUE-WoX305voC5bMIH7xT2.v6wWaoQWr6dzlmZX?startTime=1759240825000) <br>
+<br>
+
 ### **Roundtable #26 - 2025-08-19**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-26/ba-p/14171256) 
