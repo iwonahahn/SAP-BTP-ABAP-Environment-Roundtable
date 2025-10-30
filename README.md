@@ -12,6 +12,16 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+### **Roundtable #28 - 2025-10-30**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-28/ba-p/14231467#M184969) 
+<br>
+<br> 📂 Product Updates for upcoming 2511 release and planned infrastructure features for Q1/2026, new customer references) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/23239722/2025-10-30_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Demo Downtime-optimized hotfix collection updates for Steampunk presented by Jan Ole Skirke (SAP) - [slides presented](https://github.com/user-attachments/files/23239859/2025-10-30_Customer_and_Partner_Roundtable_Steampunk_ZDM.pdf)
+<br> 
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/p9s9SMCWvxaPNfc4NGb9dFdDD-ytPt935F8kPLGqBjKtBhYeFld1NplYecR2ZT7_.zGmgJMH6b5Fafwac?startTime=1761829290000) <br>
+<br>
+
 ### **Roundtable #27 - 2025-09-30**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-27/ba-p/14187111) 
