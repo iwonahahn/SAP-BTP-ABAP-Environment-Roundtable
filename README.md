@@ -17,7 +17,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-29-demo-time/ba-p/14263936) 
 <br>
 <br> 📂 Product Updates for release 2511 release and recap from SAP TechEd) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/23630165/2025-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
-<br> 📂 Live demos in ABAP Development Tools (ADT): 
+<br> 📂 **Live demos** in ABAP Development Tools (ADT): 
   <br> --› SAP BTP ABAP Environment in SAP Build | Graphical Modeler presented by Anne Keller (SAP)
   <br> --› Analytical Table with RAP and SAP Fiori presented by Cristian Croitoru (SAP)
   <br> --› Keyword Completion as Ghost Text presented by Wolfgang Woehrle (SAP)
@@ -30,7 +30,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-28/ba-p/14231467#M184969) 
 <br>
 <br> 📂 Product Updates for upcoming 2511 release and planned infrastructure features for Q1/2026, new customer references) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/23239722/2025-10-30_Customer_and_Partner_Roundtable_Steampunk.pdf)
-<br> 📂 Demo Downtime-optimized hotfix collection updates for Steampunk presented by Jan Ole Skirke (SAP) - [slides presented](https://github.com/user-attachments/files/23239859/2025-10-30_Customer_and_Partner_Roundtable_Steampunk_ZDM.pdf)
+<br> 📂 **Live demo** Downtime-optimized hotfix collection updates for Steampunk presented by Jan Ole Skirke (SAP) - [slides presented](https://github.com/user-attachments/files/23239859/2025-10-30_Customer_and_Partner_Roundtable_Steampunk_ZDM.pdf)
 <br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/p9s9SMCWvxaPNfc4NGb9dFdDD-ytPt935F8kPLGqBjKtBhYeFld1NplYecR2ZT7_.zGmgJMH6b5Fafwac?startTime=1761829290000) <br>
 <br>
@@ -40,9 +40,8 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-27/ba-p/14187111) 
 <br>
 <br> 📂 Product Updates (add-on product, new FAQ for general and partner specific questions, new SAP data center) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/22624780/2025-09-30_Customer_and_Partner_Roundtable_Steampunk.pdf)
-<br> 📂 Demos im ABAP Development Tools (ADT): <br>
+<br> 📂 **Live demos** im ABAP Development Tools (ADT):
   <br> --› AI-assisted Service Consumption Model presented by Bernhard Grusie (SAP) - [slides presented](https://github.com/user-attachments/files/22624792/SAP.Joule_for.Developers.ABAP.AI.capabilities.OData.Service.Consumption.Model.pdf)
-<br> 
   <br> --› Forms Templates presented by Pascal Bremer (SAP) 
 <br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/acc2W83Ipg38KAdN143t38stBLsdV4YpBw_pFnE-itwUE-WoX305voC5bMIH7xT2.v6wWaoQWr6dzlmZX?startTime=1759240825000) <br>
