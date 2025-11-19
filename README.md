@@ -12,6 +12,19 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+### **Roundtable #29 - 2025-11-19**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-29-demo-time/ba-p/14263936) 
+<br>
+<br> 📂 Product Updates for release 2511 release and recap from SAP TechEd) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/23630165/2025-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Live demos in ABAP Development Tools (ADT): <br>
+  <br> --› SAP BTP ABAP Environment in SAP Build | Graphical Modeler presented by Anne Keller (SAP)<br> 
+  <br> --› Analytical Table with RAP and SAP Fiori presented by Cristian Croitoru (SAP)
+  <br> --› Keyword Completion as Ghost Text presented by Wolfgang Woehrle (SAP)
+<br> 
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/x5nyfpIp8cLf0XQkwGb7B9Pr_WkgFKlc2yrPazeUiBtnOtOmSh6ZxNBXdh68NhIb.q7hyPT-ES1MzOMCZ?startTime=1763546561000) <br>
+<br>
+
 ### **Roundtable #28 - 2025-10-30**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-28/ba-p/14231467#M184969) 
