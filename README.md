@@ -19,7 +19,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 <br> 📂 Product Updates for release 2511 release and recap from SAP TechEd) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/23630165/2025-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
 <br> 📂 **Live demos** in ABAP Development Tools (ADT): 
   <br> --› SAP BTP ABAP Environment in SAP Build | Graphical Modeler presented by Anne Keller (SAP)
-  <br> --› Analytical Table with RAP and SAP Fiori presented by Cristian Croitoru (SAP)
+  <br> --› Analytical Table with RAP and SAP Fiori presented by Cristian Croitoru (SAP) - documentation on SAP Help Portal [Developing Read-Only RAP Analytical Tables](https://help.sap.com/docs/abap-cloud/abap-rap/developing-read-only-rap-analytical-tables?locale=en-US)
   <br> --› Keyword Completion as Ghost Text presented by Wolfgang Woehrle (SAP)
 <br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/x5nyfpIp8cLf0XQkwGb7B9Pr_WkgFKlc2yrPazeUiBtnOtOmSh6ZxNBXdh68NhIb.q7hyPT-ES1MzOMCZ?startTime=1763546561000) <br>
