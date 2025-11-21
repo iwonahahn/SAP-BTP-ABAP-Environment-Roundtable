@@ -16,11 +16,11 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-29-demo-time/ba-p/14263936) 
 <br>
-<br> 📂 Product Updates for release 2511 release and recap from SAP TechEd) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/23630165/2025-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Product Updates for release 2511 release and recap from SAP TechEd) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/23630165/2025-11-19_Customer_and_Partner_Roundtable_Steampunk.pdf) incl. 2 slides for the graphical modeler see live demos
 <br> 📂 **Live demos** in ABAP Development Tools (ADT): 
-  <br> --› SAP BTP ABAP Environment in SAP Build | Graphical Modeler presented by Anne Keller (SAP)
+  <br> --› SAP BTP ABAP Environment in SAP Build | Graphical Modeler presented by Anne Keller (SAP) - slides inculded in the slide deck above
   <br> --› Analytical Table with RAP and SAP Fiori presented by Cristian Croitoru (SAP) - documentation on SAP Help Portal [Developing Read-Only RAP Analytical Tables](https://help.sap.com/docs/abap-cloud/abap-rap/developing-read-only-rap-analytical-tables?locale=en-US)
-  <br> --› Keyword Completion as Ghost Text presented by Wolfgang Woehrle (SAP)
+  <br> --› Keyword Completion as Ghost Text presented by Wolfgang Woehrle (SAP) - documentation on SAP Help Portal [Using Ghost Text as New Default for Keyword Completion](https://help.sap.com/docs/abap-cloud/abap-development-tools-user-guide/version-3-54?version=sap_btp#loioa90f2cb43606496fb3bfd9641cf6789e__section_keyword_completion_ghosttext_default)
 <br> 
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/x5nyfpIp8cLf0XQkwGb7B9Pr_WkgFKlc2yrPazeUiBtnOtOmSh6ZxNBXdh68NhIb.q7hyPT-ES1MzOMCZ?startTime=1763546561000) <br>
 <br>
