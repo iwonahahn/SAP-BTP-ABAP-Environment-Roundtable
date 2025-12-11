@@ -12,6 +12,16 @@ If you have further questions or feedback that you couldn’t address during the
 If you want to show a demo or share a use case scenario send us an [email](mailto:sap_btp_abap_environment@sap.com) and we will get back to you.<br><be> 
 <be>
 
+### **Roundtable #30 - 2025-12-11**<br>
+
+[Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-30/ba-p/14276430) 
+<br>
+<br> 📂 Product Updates) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/24110492/2025-12-11_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Transformation of an OnPrem-Enterprise Application into a Multi-Tenant SaaS Solution - partner solution on SAP BTP ABAP Environment presented by Benjamin Schneidereit (Senior Manager, BearingPoint), Holm Kettner (Tech Lead, BearingPoint) [Slides](https://github.com/user-attachments/files/24110529/2025-12-11_Customer_and_Partner_Roundtable_steampunk_BearingPoint.pdf)
+<br>
+<br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/BBq9IshH4RzQvw3wf_Mda1-sElVH1rLhFcLrdNwys5rd2viQl_4cOlvfz_xwS3tp.JTR6ztbGTg13jc_1?startTime=1765443637000) <br>
+<br>
+
 ### **Roundtable #29 - 2025-11-19**<br>
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-29-demo-time/ba-p/14263936) 
@@ -39,7 +49,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-27/ba-p/14187111) 
 <br>
-<br> 📂 Product Updates (add-on product, new FAQ for general and partner specific questions, new SAP data center) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/22624780/2025-09-30_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Product Updates (add-on product, new FAQ for general and partner-specific questions, new SAP data center) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/22624780/2025-09-30_Customer_and_Partner_Roundtable_Steampunk.pdf)
 <br> 📂 **Live demos** im ABAP Development Tools (ADT):
   <br> --› AI-assisted Service Consumption Model presented by Bernhard Grusie (SAP) - [slides presented](https://github.com/user-attachments/files/22624792/SAP.Joule_for.Developers.ABAP.AI.capabilities.OData.Service.Consumption.Model.pdf)
   <br> --› Forms Templates presented by Pascal Bremer (SAP) 
