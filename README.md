@@ -16,7 +16,7 @@ If you want to show a demo or share a use case scenario send us an [email](mailt
 
 [Blog Post Roundtable](https://community.sap.com/t5/technology-blog-posts-by-sap/customer-amp-partner-roundtable-for-sap-btp-abap-environment-30/ba-p/14276430) 
 <br>
-<br> 📂 Product Updates) - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/24110492/2025-12-11_Customer_and_Partner_Roundtable_Steampunk.pdf)
+<br> 📂 Product Updates: Joule DocChat available, upgrade schedule 2026 published, pre-upgrade 2602, SAP to Collaborate with AWS to bring the SAP BTP ABAP Environment to ARM-Based AWS Graviton - [Slides presented by Frank Jentsch (SAP)](https://github.com/user-attachments/files/24110492/2025-12-11_Customer_and_Partner_Roundtable_Steampunk.pdf)
 <br> 📂 Transformation of an OnPrem-Enterprise Application into a Multi-Tenant SaaS Solution - partner solution on SAP BTP ABAP Environment presented by Benjamin Schneidereit (Senior Manager, BearingPoint), Holm Kettner (Tech Lead, BearingPoint) [Slides](https://github.com/user-attachments/files/24110529/2025-12-11_Customer_and_Partner_Roundtable_steampunk_BearingPoint.pdf)
 <br>
 <br> 🎥 [Zoom Recording](https://sap-se.zoom.us/rec/share/BBq9IshH4RzQvw3wf_Mda1-sElVH1rLhFcLrdNwys5rd2viQl_4cOlvfz_xwS3tp.JTR6ztbGTg13jc_1?startTime=1765443637000) <br>
