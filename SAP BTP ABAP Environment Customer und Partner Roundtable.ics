@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+BEGIN:STANDARD
+DTSTART:16011028T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010325T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20260114T102743Z
+DESCRIPTION:This roundtable is a monthly series taking place on the first T
+	uesday of every month in 2026.\n\n\n\nAgenda\, Slides & Recordings\n\nAll 
+	agendas\, slides\, recordings\, and updates from past and current sessions
+	 are published centrally via the SAP Community - SAP BTP ABAP Environment 
+	Customer and Partner Roundtable <https://pages.community.sap.com/topics/bt
+	p-abap-environment/customer-partner-roundtable> .\n\n\nAccess\nSession par
+	ticipants have direct access to slides and recordings.\nNon-participants m
+	ay request access afterward.\n\nThis roundtable is an interactive discussi
+	on format for customers and partners working with SAP BTP ABAP Environment
+	.\n\n\n___________________________________________________________________
+	____________\nMicrosoft Teams Need help? <https://aka.ms/JoinTeamsMeeting?
+	omkt=en-US> \nJoin the meeting now <https://teams.microsoft.com/l/meetup-j
+	oin/19%3ameeting_YTE0YzFlNGMtMDA2NC00NThlLWEzYWQtNWExNzU3MmRmNGE1%40thread
+	.v2/0?context=%7b%22Tid%22%3a%2242f7676c-f455-423c-82f6-dc2d99791af7%22%2c
+	%22Oid%22%3a%223d2a93aa-8f6e-4294-826f-80727ddf8588%22%7d> \nMeeting ID: 3
+	52 932 199 120 57 \nPasscode: cF7mj6gu \n________________________________\
+	n\nFor organizers: Meeting options <https://teams.microsoft.com/meetingOpt
+	ions/?organizerId=3d2a93aa-8f6e-4294-826f-80727ddf8588&tenantId=42f7676c-f
+	455-423c-82f6-dc2d99791af7&threadId=19_meeting_YTE0YzFlNGMtMDA2NC00NThlLWE
+	zYWQtNWExNzU3MmRmNGE1@thread.v2&messageId=0&language=en-US> \n____________
+	____________________________________________________________________\n
+DTEND;TZID="W. Europe Standard Time":20260203T110000
+DTSTAMP:20260113T141157Z
+DTSTART;TZID="W. Europe Standard Time":20260203T100000
+LAST-MODIFIED:20260114T102743Z
+LOCATION:Microsoft Teams-Besprechung
+ORGANIZER;CN="SAP BTP ABAP Environment":mailto:sap_btp_abap_environment@sap
+	.com
+PRIORITY:5
+RRULE:FREQ=MONTHLY;COUNT=11;BYDAY=TU;BYSETPOS=1
+SEQUENCE:4
+SUMMARY;LANGUAGE=de:SAP BTP ABAP Environment Customer und Partner Roundtabl
+	e
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E0080000000025CACD0D4673DC01000000000000000
+	0100000007E52F4387D146A4EABABC62BD84A171C
+X-ALT-DESC;FMTTYPE=text/html:<html>\n<head>\n\n</head>\n<body>\n<div style=
+	"direction: ltr\; font-family: Aptos\, Arial\, Helvetica\, sans-serif\; fo
+	nt-size: 12pt\; color: rgb(0\, 0\, 0)\;">\nThis roundtable is a monthly se
+	ries taking place on the first Tuesday of every month in 2026.</div>\n<div
+	 style="direction: ltr\; font-family: Aptos\, Arial\, Helvetica\, sans-ser
+	if\; font-size: 12pt\; color: rgb(0\, 0\, 0)\;">\n<b><br>\n</b></div>\n<p 
+	style="direction: ltr\; margin-top: 0px\; margin-bottom: 0px\;"><span styl
+	e="font-family: Aptos\, Arial\, Helvetica\, sans-serif\; font-size: 12pt\;
+	 color: rgb(0\, 0\, 0)\;"><b>Agenda\, Slides &amp\; Recordings</b></span><
+	/p>\n<div style="direction: ltr\; font-family: Aptos\, Arial\, Helvetica\,
+	 sans-serif\; font-size: 12pt\; color: rgb(0\, 0\, 0)\;">\n<span style="te
+	xt-transform: none\;">All agendas\, slides\, recordings\, and updates from
+	 past and current sessions are published centrally\n</span>via<span style=
+	"text-transform: none\;">&nbsp\;the <a href="https://pages.community.sap.c
+	om/topics/btp-abap-environment/customer-partner-roundtable" data-outlook-i
+	d="99ebb371-290c-40de-b9f4-02f1c88a6416">\nSAP Community - SAP BTP ABAP En
+	vironment Customer and Partner Roundtable</a>.</span><br>\n</div>\n<p styl
+	e="text-align: left\; text-indent: 0px\; text-transform: none\;"><span sty
+	le="font-family: Aptos\, Arial\, Helvetica\, sans-serif\; font-size: 12pt\
+	; color: rgb(0\, 0\, 0)\;"><b>Access</b><br>\nSession participants have di
+	rect access to slides and recordings.<br>\nNon-participants may request ac
+	cess afterward.</span></p>\n<p style="text-align: left\; text-indent: 0px\
+	; text-transform: none\;"><span style="font-family: Aptos\, Arial\, Helvet
+	ica\, sans-serif\; font-size: 12pt\; color: rgb(0\, 0\, 0)\;">This roundta
+	ble is an interactive discussion format for customers and partners working
+	\n with&nbsp\;SAP BTP ABAP Environment.<br>\n</span></p>\n<div style="max-
+	width: 1024px\;">\n<div class="me-email-text" style="white-space: nowrap\;
+	 margin-bottom: 24px\; font-family: &quot\;Segoe UI&quot\;\, &quot\;Helvet
+	ica Neue&quot\;\, Helvetica\, Arial\, sans-serif\; color: rgb(36\, 36\, 36
+	)\;">\n___________________________________________________________________
+	____________</div>\n<div class="me-email-text" style="margin-bottom: 12px\
+	; font-family: &quot\;Segoe UI&quot\;\, &quot\;Helvetica Neue&quot\;\, Hel
+	vetica\, Arial\, sans-serif\;">\n<span style="font-size: 24px\; color: rgb
+	(36\, 36\, 36)\; font-weight: 700\;">Microsoft Teams</span><span style="co
+	lor: rgb(36\, 36\, 36)\;">\n</span><span style="font-size: 14px\; color: r
+	gb(91\, 95\, 199)\;"><u><a href="https://aka.ms/JoinTeamsMeeting?omkt=en-U
+	S" id="meet_invite_block.action.help" class="me-email-link" data-auth="Not
+	Applicable" data-outlook-id="661f8707-b742-449c-a612-04e035e19599" style="
+	color: rgb(91\, 95\, 199)\;">Need\n help?</a></u></span></div>\n<div class
+	="me-email-text" style="margin-bottom: 6px\; font-family: &quot\;Segoe UI&
+	quot\;\, &quot\;Helvetica Neue&quot\;\, Helvetica\, Arial\, sans-serif\; f
+	ont-size: 20px\; color: rgb(91\, 95\, 199)\;">\n<span style="font-weight: 
+	600\;"><u><a href="https://teams.microsoft.com/l/meetup-join/19%3ameeting_
+	YTE0YzFlNGMtMDA2NC00NThlLWEzYWQtNWExNzU3MmRmNGE1%40thread.v2/0?context=%7b
+	%22Tid%22%3a%2242f7676c-f455-423c-82f6-dc2d99791af7%22%2c%22Oid%22%3a%223d
+	2a93aa-8f6e-4294-826f-80727ddf8588%22%7d" id="meet_invite_block.action.joi
+	n_link" class="me-email-headline" title="Meeting join link" data-auth="Not
+	Applicable" data-outlook-id="5d75391f-358c-4b26-ba97-57cd05abc336" style="
+	color: rgb(91\, 95\, 199)\;">Join\n the meeting now</a></u></span></div>\n
+	<div class="me-email-text" style="margin-bottom: 6px\; font-family: &quot\
+	;Segoe UI&quot\;\, &quot\;Helvetica Neue&quot\;\, Helvetica\, Arial\, sans
+	-serif\;">\n<span style="font-size: 14px\; color: rgb(97\, 97\, 97)\;">Mee
+	ting ID: </span><span style="font-size: 14px\; color: rgb(36\, 36\, 36)\;"
+	>352 932 199 120 57</span><span style="color: rgb(36\, 36\, 36)\;">\n</spa
+	n></div>\n<div class="me-email-text" style="margin-bottom: 32px\; font-fam
+	ily: &quot\;Segoe UI&quot\;\, &quot\;Helvetica Neue&quot\;\, Helvetica\, A
+	rial\, sans-serif\;">\n<span style="font-size: 14px\; color: rgb(97\, 97\,
+	 97)\;">Passcode: </span><span style="font-size: 14px\; color: rgb(36\, 36
+	\, 36)\;">cF7mj6gu</span><span style="color: rgb(36\, 36\, 36)\;">\n</span
+	></div>\n<div style="margin-bottom: 12px\; max-width: 1024px\;">\n<hr styl
+	e="direction: ltr\; background-color: rgb(97\, 97\, 97)\; height: 1px\;">\
+	n</div>\n<div class="me-email-text" style="font-family: &quot\;Segoe UI&qu
+	ot\;\, &quot\;Helvetica Neue&quot\;\, Helvetica\, Arial\, sans-serif\; fon
+	t-size: 14px\;">\n<span style="color: rgb(97\, 97\, 97)\;">For organizers:
+	 </span><span style="color: rgb(91\, 95\, 199)\;"><u><a href="https://team
+	s.microsoft.com/meetingOptions/?organizerId=3d2a93aa-8f6e-4294-826f-80727d
+	df8588&amp\;tenantId=42f7676c-f455-423c-82f6-dc2d99791af7&amp\;threadId=19
+	_meeting_YTE0YzFlNGMtMDA2NC00NThlLWEzYWQtNWExNzU3MmRmNGE1@thread.v2&amp\;m
+	essageId=0&amp\;language=en-US" id="meet_invite_block.action.organizer_mee
+	t_options" class="me-email-link" data-auth="NotApplicable" data-outlook-id
+	="691ac5a8-23a9-4bb8-a4d7-6d78eb22ea45" style="color: rgb(91\, 95\, 199)\;
+	">Meeting\n options</a></u></span></div>\n<div class="me-email-text" style
+	="white-space: nowrap\; margin-bottom: 24px\; font-family: &quot\;Segoe UI
+	&quot\;\, &quot\;Helvetica Neue&quot\;\, Helvetica\, Arial\, sans-serif\; 
+	color: rgb(36\, 36\, 36)\;">\n____________________________________________
+	____________________________________</div>\n</div>\n</body>\n</html>\n
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-APPTLASTSEQUENCE:6
+X-MS-OLK-APPTSEQTIME:20260107T110830Z
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
